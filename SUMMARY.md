@@ -3,8 +3,8 @@
 ## Tutorials
 
 * [Installation](README.md)
-  * [Installing Settler III](tutorials/installation/installing-settler-iii.md)
-  * [Installing Settler IV](tutorials/installation/installing-settler-iv.md)
+  * [Installing Settler III](tutorials/installation-and-usage/installing-settler-iii.md)
+  * [Installing Settler IV](tutorials/installation-and-usage/installing-settler-iv.md)
   * [Settlers United](tutorials/installation/settlers-united.md)
 
 ***

@@ -1,11 +1,11 @@
 # Installation
 
-{% content-ref url="tutorials/installation/installing-settler-iii.md" %}
-[installing-settler-iii.md](tutorials/installation/installing-settler-iii.md)
+{% content-ref url="tutorials/installation-and-usage/installing-settler-iii.md" %}
+[installing-settler-iii.md](tutorials/installation-and-usage/installing-settler-iii.md)
 {% endcontent-ref %}
 
-{% content-ref url="tutorials/installation/installing-settler-iv.md" %}
-[installing-settler-iv.md](tutorials/installation/installing-settler-iv.md)
+{% content-ref url="tutorials/installation-and-usage/installing-settler-iv.md" %}
+[installing-settler-iv.md](tutorials/installation-and-usage/installing-settler-iv.md)
 {% endcontent-ref %}
 
 ## Videoguide (german)
