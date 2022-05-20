@@ -1,4 +1,4 @@
-# Settlers United
+# Settlers United Installation
 
 ## Installation
 
